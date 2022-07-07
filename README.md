@@ -1,1 +1,1 @@
-# Regular BLogs that are uploaded in hashnode are saved here
+# Regular BLogs that are uploaded in HashNode are saved here
