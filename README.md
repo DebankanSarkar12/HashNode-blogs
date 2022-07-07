@@ -1,2 +1,2 @@
 # HashNode-blogs
-Regular Blogs that are uploaded in HashNode are saved here
+Regular Blogs that are uploaded on HashNode are saved here
